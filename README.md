@@ -1,4 +1,4 @@
-# AeroLab RC + FPV — Windows v0.4.0
+# AeroLab RC + FPV — Windows v0.5.0
 
 1. Extract the whole ZIP into a folder on your computer.
 2. Double-click **Open AeroLab.cmd**.
@@ -41,3 +41,6 @@ Aircraft coefficients are generic RC estimates. Visual likeness and higher-quali
 rendering do not establish measured real-world flight fidelity. See the included
 asset notices and licenses for the Cessna by osmosikum, CC0 aircraft and scenery,
 Poly Haven scans, and Godot Engine.
+
+
+See **RELEASE v0.5.md** for the new aircraft builder, graphics/realism sliders, two 3D helicopters, USB radio setup, and opt-in wing breakage and distance limits.
