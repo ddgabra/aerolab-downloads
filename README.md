@@ -1,4 +1,4 @@
-# AeroLab RC + FPV — Windows v0.7.0
+# AeroLab RC + FPV — Windows v0.8.0
 
 1. Extract the whole ZIP into a folder on your computer.
 2. Double-click **Open AeroLab.cmd**.
@@ -44,4 +44,6 @@ asset notices and licenses for the Cessna by osmosikum, CC0 aircraft and scenery
 Poly Haven scans, and Godot Engine.
 
 
-In **Settings → Flight**, set temperature, pressure, humidity, rain, wind and gusts. In the **Hangar**, construction changes mass, stiffness and strength as well as appearance; custom component masses remain authoritative. Keep flight realism high and lower scenery quality first on a modest computer. See **RELEASE v0.7.md** and **PHYSICS AND TESTING.md** for changes, checks and model limits.
+In **Settings → Flight**, set temperature, pressure, humidity, rain, wind and gusts. In the **Hangar**, construction changes mass, stiffness and strength as well as appearance; custom component masses remain authoritative. Keep flight realism high and lower scenery quality first on a modest computer. See **RELEASE v0.8.md** and **PHYSICS AND TESTING.md** for changes, checks and model limits.
+
+Manual airplane flight returns the servos to their neutral rigging. For approximately level hands-off flight, use the cruise speed and throttle shown on the HUD, then use elevator trim for your loading and conditions. More power can still produce a climb. Assisted mode adds automatic leveling. R repairs crash damage and removes wreckage.
